@@ -11,7 +11,7 @@ For those who want to contribute, just fork or download as usual!
 
 ## Requirements
 
-- Browser
+- PHP >= 5.3.7
 - Of course with the internet
 
 ## Installation
